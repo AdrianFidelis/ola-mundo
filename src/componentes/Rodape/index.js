@@ -6,7 +6,7 @@ export default function Rodape() {
         <footer className={styles.rodape}>
             <MarcaRegistrada />
 
-            Desenvolvido por Alura E Adrian.
+            Desenvolvido por Alura.
         </footer>
     )
 }
